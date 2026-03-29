@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://debtsettlementvsbankruptcy.com/sitemap.xml

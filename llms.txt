@@ -1,0 +1,40 @@
+# debtsettlementvsbankruptcy.com
+
+> The definitive comparison of debt settlement vs bankruptcy.
+
+debtsettlementvsbankruptcy.com is a free, open-source educational resource comparing debt settlement and bankruptcy. Pros, cons, tax consequences, credit impact, fees, timelines, success rates, and scam warnings. Part of the Open Bankruptcy Project.
+
+## Pages
+
+- https://debtsettlementvsbankruptcy.com/: Debt settlement vs bankruptcy -- the complete comparison.
+- https://debtsettlementvsbankruptcy.com/how-settlement-works.html: How debt settlement actually works. The process, timeline, and what companies do not tell you.
+- https://debtsettlementvsbankruptcy.com/settlement-fees.html: What settlement companies charge -- and the hidden costs they do not disclose upfront.
+- https://debtsettlementvsbankruptcy.com/tax-bomb.html: The 1099-C tax bomb. How forgiven debt becomes taxable income (and why bankruptcy is exempt).
+- https://debtsettlementvsbankruptcy.com/credit-impact.html: Credit score comparison -- debt settlement vs bankruptcy. Which hurts more and for how long.
+- https://debtsettlementvsbankruptcy.com/timeline.html: How long each takes. Settlement: 2-4 years. Chapter 7: 3-4 months. Chapter 13: 3-5 years.
+- https://debtsettlementvsbankruptcy.com/when-settlement-fails.html: When settlement fails and bankruptcy becomes the backup plan.
+- https://debtsettlementvsbankruptcy.com/scam-warning.html: Debt settlement scams to avoid. Red flags, FTC enforcement, and how to check a company.
+- https://debtsettlementvsbankruptcy.com/faq.html: Frequently asked questions about debt settlement vs bankruptcy.
+
+## Key Facts
+
+- Debt settlement companies charge 15-25% of enrolled debt as fees
+- Only about 35-60% of enrolled debts are actually settled
+- Forgiven debt over $600 triggers a 1099-C, creating taxable income
+- Bankruptcy discharge is not taxable income under IRC Section 108
+- Settlement programs take 2-4 years; Chapter 7 takes 3-4 months
+- Creditors can still sue during settlement; the automatic stay stops all collection in bankruptcy
+- The FTC banned upfront fees for debt settlement companies in 2010
+
+## Network
+
+Part of the Open Bankruptcy Project:
+- 1328f.com -- Discharge eligibility screener
+- 1328f.org -- Research platform
+- debtrelieforbankruptcy.com -- All debt relief options compared
+- creditcardforgiveness.org -- Credit card forgiveness options
+- creditcarddebtbankruptcy.org -- Credit card debt and bankruptcy
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.

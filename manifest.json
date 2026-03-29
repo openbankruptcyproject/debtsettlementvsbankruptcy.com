@@ -1,0 +1,16 @@
+{
+  "name": "Debt Settlement vs Bankruptcy Guide",
+  "short_name": "Settlement vs BK",
+  "description": "Free comparison of debt settlement vs bankruptcy. Fees, tax consequences, credit impact, timelines, success rates, and scam warnings.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
