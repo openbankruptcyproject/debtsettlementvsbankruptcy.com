@@ -1,6 +1,6 @@
 # debtsettlementvsbankruptcy.com -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on debtsettlementvsbankruptcy.com.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -25,6 +25,8 @@ Settlement: 35-60% success, 2-4 years, 15-25% fees, taxable forgiveness, no lega
 Chapter 7: 95%+ success, 3-4 months, ~$2,000 total, tax-free discharge, automatic stay
 
 Network › Settlement vs Bankruptcy › Comparison
+
+For most people with significant debt, no. Debt settlement has a 35-60% success rate, takes 2-4 years, costs 15-25% in fees, provides no legal protection from lawsuits, and triggers taxable income on forgiven amounts. Chapter 7 bankruptcy has a 95%+ success rate, takes 3-4 months, costs $1,400-$2,900 total, provides immediate legal protection via the automatic stay, and discharge is not taxable.
 
 The Master Comparison
 
@@ -267,7 +269,7 @@ File Bankruptcy Again Guide
 Section 109(g) Filing Bar
 
 This site is free and open-source. Support the Open Bankruptcy Project.
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -328,18 +330,31 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com1328f.orgdebtconsolidationvsbankruptcy.comchapter7vs13.orgmeanstest.orgautomaticstay.orghowmuchdoesbankruptcycost.com♥ SponsorGitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -347,7 +362,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Credit Score: Settlement vs Bankruptcy
+## Credit Impact: Settlement vs Bankruptcy [2026]: 7-Year Reporting and Recovery Trajectories
 Source: https://debtsettlementvsbankruptcy.com/credit-impact.html
 
 Skip to main content
@@ -404,7 +419,7 @@ File Bankruptcy Again Guide
 Section 109(g) Filing Bar
 
 This site is free and open-source. Support the Open Bankruptcy Project.
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -465,18 +480,31 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com1328f.orgcreditcarddebtbankruptcy.org♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -484,7 +512,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## FAQ - Debt Settlement vs Bankruptcy
+## Settlement vs Bankruptcy FAQ [2026]: 18 Decision Questions Answered
 Source: https://debtsettlementvsbankruptcy.com/faq.html
 
 Skip to main content
@@ -555,7 +583,7 @@ File Bankruptcy Again Guide
 Section 109(g) Filing Bar
 
 This site is free and open-source. Support the Open Bankruptcy Project.
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -616,18 +644,31 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Relief from Automatic Stay -- relieffromstay.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com1328f.orgdebtrelieforbankruptcy.comcreditcardforgiveness.orgcreditcarddebtbankruptcy.org♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -635,7 +676,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## How Debt Settlement Actually Works
+## How Debt Settlement Actually Works [2026]: Escrow, Negotiation, and the 36-to-48-Month Timeline
 Source: https://debtsettlementvsbankruptcy.com/how-settlement-works.html
 
 Skip to main content
@@ -692,7 +733,7 @@ File Bankruptcy Again Guide
 Section 109(g) Filing Bar
 
 This site is free and open-source. Support the Open Bankruptcy Project.
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -753,18 +794,31 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com1328f.orgdebtrelieforbankruptcy.com♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -775,14 +829,14 @@ This site provides general information, not legal advice. Consult a qualified at
 ## Debt Settlement vs Bankruptcy - Which Is Better? Honest Comparison [2026]
 Source: https://debtsettlementvsbankruptcy.com/
 
-🌐 Esta pagina esta disponible en Espanol
+ðŸŒ Esta pÃ¡gina estÃ¡ disponible en EspaÃ±ol
 
 Skip to main content
 
 debtsettlementvsbankruptcy.com☰
 HomeHow It WorksFeesTax BombCreditTimelineWhen It FailsScamsFAQ
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Debt Settlement vs Bankruptcy
 
@@ -859,6 +913,8 @@ FAQ
 
 Common questions about settlement vs bankruptcy answered.
 
+The tax bomb: Forgiven debt over $600 triggers a 1099-C. You owe income tax on the forgiven amount. Bankruptcy discharge is not taxable. See the 1099-C tax bomb . Lawsuits continue: There is no automatic stay in settlement. Creditors can sue you while you are in the program.
+
 Frequently Asked Questions
 
 Is debt settlement better than bankruptcy?
@@ -907,10 +963,8 @@ Subscribe
 
 We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
-
 This site is free and open-source. Support the Open Bankruptcy Project.
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -999,7 +1053,7 @@ California · Texas · Florida · New York · Illinois · Ohio
 
 Browse All 50 State Guides →
 
-📖 Bankruptcy Glossary -- 61 terms explained
+ðŸ“– Bankruptcy Glossary -- 61 terms explained
 
 Filing in Your State?
 
@@ -1085,28 +1139,68 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com1328f.orgdebtrelieforbankruptcy.comcreditcardforgiveness.orgcreditcarddebtbankruptcy.org♥ SponsorGitHub Rule 9037 PII Scanner
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
-Cited by the Federal Rules Committee (26-BK-3)
-
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+Most-read OBP guides
+
+Brunner Test (Â§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions Â§522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Index
 
 ---
 
-## Debt Settlement Scams to Avoid
+## Debt Settlement Scam Warning [2026]: FTC TSR Upfront-Fee Ban and State AG Enforcement
 Source: https://debtsettlementvsbankruptcy.com/scam-warning.html
 
 Skip to main content
@@ -1165,7 +1259,7 @@ File Bankruptcy Again Guide
 Section 109(g) Filing Bar
 
 This site is free and open-source. Support the Open Bankruptcy Project.
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -1226,18 +1320,31 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com1328f.org♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1245,7 +1352,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## What Debt Settlement Companies Charge
+## Debt Settlement Fees [2026]: 15-25% Industry Norm and FTC TSR Timing Rules
 Source: https://debtsettlementvsbankruptcy.com/settlement-fees.html
 
 Skip to main content
@@ -1308,7 +1415,7 @@ File Bankruptcy Again Guide
 Section 109(g) Filing Bar
 
 This site is free and open-source. Support the Open Bankruptcy Project.
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -1369,18 +1476,31 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com1328f.org♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1388,7 +1508,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## The 1099-C Tax Bomb from Debt Settlement
+## Debt Settlement Tax Bomb [2026]: IRC 108 1099-C Cancellation of Debt Income
 Source: https://debtsettlementvsbankruptcy.com/tax-bomb.html
 
 Skip to main content
@@ -1435,7 +1555,7 @@ File Bankruptcy Again Guide
 Section 109(g) Filing Bar
 
 This site is free and open-source. Support the Open Bankruptcy Project.
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -1496,18 +1616,31 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com1328f.org♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1515,7 +1648,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Timeline: Settlement vs Bankruptcy
+## Debt Settlement vs Bankruptcy Timeline [2026]: 4-Month vs 36-48-Month Resolution Compared
 Source: https://debtsettlementvsbankruptcy.com/timeline.html
 
 Skip to main content
@@ -1584,7 +1717,7 @@ File Bankruptcy Again Guide
 Section 109(g) Filing Bar
 
 This site is free and open-source. Support the Open Bankruptcy Project.
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -1645,18 +1778,31 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com1328f.org♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1664,7 +1810,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## When Settlement Fails - And Bankruptcy Saves You
+## When Debt Settlement Fails [2026]: Lawsuit Risk, Statute of Limitations, and Bankruptcy Pivot
 Source: https://debtsettlementvsbankruptcy.com/when-settlement-fails.html
 
 Skip to main content
@@ -1727,7 +1873,7 @@ File Bankruptcy Again Guide
 Section 109(g) Filing Bar
 
 This site is free and open-source. Support the Open Bankruptcy Project.
-♥ Sponsor
+♥ Donate
 
 Further Reading & Resources
 
@@ -1788,18 +1934,31 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com1328f.org♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
@@ -1863,7 +2022,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -1873,6 +2032,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About debtsettlementvsbankruptcy.com
+Source: https://debtsettlementvsbankruptcy.com/about.html
+
+debtsettlementvsbankruptcy.com
+
+Home
+About
+Privacy
+
+About debtsettlementvsbankruptcy.com
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+debtsettlementvsbankruptcy.com is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
